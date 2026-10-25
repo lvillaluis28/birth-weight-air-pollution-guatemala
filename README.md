@@ -18,7 +18,7 @@
 | `02_scripts/` | Scripts en **R** para importar, depurar, armonizar y validar los datos, y desarrollar los análisis. |
 | `03_resultados/` | Resultados del proyecto, incluidas figuras, tablas y resúmenes agregados, conforme avance el análisis. |
 
-**Organización prevista:** se incorporará `04_docs/` para documentar el diccionario de variables, las decisiones de armonización y los criterios de selección. También se prevén las subcarpetas `03_resultados/figures/` y `03_resultados/tables/` para separar figuras y tablas. Estas incorporaciones **aún no se han creado** y se añadirán conforme avance el proyecto.
+**Organización prevista:** se incorporará `04_docs/` para documentar el diccionario de variables, las decisiones de armonización y los criterios de selección. También se prevén las subcarpetas `03_resultados/figuras/` y `03_resultados/tablas/` para separar figuras y tablas. Estas incorporaciones **aún no se han creado** y se añadirán conforme avance el proyecto.
 
 ## 🔒 Datos y confidencialidad
 
