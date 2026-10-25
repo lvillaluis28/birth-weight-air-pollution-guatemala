@@ -1,4 +1,4 @@
-# 🇬🇹 Bajo peso al nacer y contaminación del aire en Guatemala
+# Bajo peso al nacer y contaminación del aire en Guatemala
 
 **Tendencias, territorio y salud desde el nacimiento · 2009–2024**
 
@@ -32,8 +32,6 @@ El trabajo sigue una secuencia de **importación → armonización y validación
 
 El proyecto está **en desarrollo**, en la etapa de preparación de los datos y organización de los scripts. Algunas decisiones de armonización siguen siendo provisionales y deberán documentarse antes de utilizar las variables correspondientes. Los criterios de selección se definirán según cada objetivo: la disponibilidad de municipio, por ejemplo, es necesaria para asignar exposición territorial, pero no debe exigirse automáticamente para describir tendencias nacionales.
 
-Se busca mantener un flujo reproducible, con rutas relativas, conservación de los campos originales y registro explícito de las transformaciones y exclusiones.
-
 ---
 
-**Autor:** Luis Villaseñor · Doctorado en Epidemiología, Pontificia Universidad Católica de Chile.
+**Autor:** Luis Villaseñor · Estudiante del Doctorado en Epidemiología, Pontificia Universidad Católica de Chile.
