@@ -6,7 +6,7 @@
 
 El bajo peso al nacer constituye un problema de salud pública en Guatemala por su frecuencia y sus consecuencias para la supervivencia, el crecimiento y el desarrollo infantil. La contaminación del aire podría contribuir a este desenlace junto con otros determinantes sociales y ambientales, pero la evidencia en América Latina sigue siendo limitada.
 
-Este proyecto utiliza registros de nacimientos de Guatemala de 2009–2024 para describir las tendencias y la estacionalidad del peso al nacer y del bajo peso al nacer —definido como un peso inferior a 2500 gramos—, además de explorar diferencias entre territorios y características maternas.
+Este proyecto utiliza registros de nacimientos de Guatemala de 2009–2024 para describir las tendencias y la estacionalidad del peso al nacer y del bajo peso al nacer (definido como un peso inferior a 2500 gramos), además de explorar diferencias entre territorios y características maternas.
 
 En una etapa posterior, los registros se vincularán con estimaciones de material particulado fino (PM₂.₅) para estudiar su asociación con el bajo peso al nacer y orientar estrategias de protección de la salud maternoinfantil.
 
@@ -21,9 +21,9 @@ En una etapa posterior, los registros se vincularán con estimaciones de materia
 
 **Nacimientos:** registros administrativos del Registro Civil correspondientes a 2009–2024, en formatos SPSS (2009–2017) y Excel (2018–2024). Incluyen peso, fecha de nacimiento, residencia y características maternas, con disponibilidad variable entre años.
 
-**Contaminación del aire —incorporación prevista—:** estimaciones de PM₂.₅ del Atmospheric Composition Analysis Group (ACAG), basadas en información satelital y modelación. Su vinculación con los nacimientos está pendiente.
+**Contaminación del aire (incorporación prevista):** estimaciones de PM₂.₅ del Atmospheric Composition Analysis Group (ACAG), basadas en información satelital y modelación. Su vinculación con los nacimientos está pendiente.
 
-> **La base real no puede publicarse actualmente por motivos de confidencialidad.** La carpeta `01_data/` contiene un Excel con los nombres de las columnas de la base real, sin registros individuales. No permite ejecutar los análisis por sí solo.
+> **La base real no puede publicarse actualmente por motivos de confidencialidad.** La carpeta `01_datos/` contiene un Excel con los nombres de las columnas de la base real, sin registros individuales. No permite ejecutar los análisis por sí solo.
 
 ## Organización del proyecto
 
@@ -55,8 +55,4 @@ La ejecución requiere acceso autorizado a los datos originales y las dependenci
 
 ## Estado actual y próximos pasos
 
-Se han importado los datos, armonizado variables principales y realizado controles iniciales. Actualmente se reorganiza el código para consolidar un flujo reproducible.
-
-Los próximos pasos son completar la documentación, revisar las decisiones pendientes, desarrollar las visualizaciones descriptivas e integrar la exposición a PM₂.₅. La vía del parto y los conteos de hijos mantienen aspectos de armonización pendientes; la ocupación materna queda fuera del análisis principal por problemas de comparabilidad.
-
-**Los resultados descriptivos no permiten atribuir los cambios observados a la contaminación del aire ni establecer relaciones causales.**
+Se han importado los datos, armonizado variables principales y realizado controles iniciales. Los próximos pasos son completar la documentación, revisar las decisiones pendientes, desarrollar las visualizaciones descriptivas e integrar la exposición a PM₂.₅. La vía del parto y los conteos de hijos mantienen aspectos de armonización pendientes; la ocupación materna queda fuera del análisis principal por problemas de comparabilidad.
